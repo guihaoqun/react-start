@@ -1,5 +1,5 @@
 {
-  "name": "FFReact",
+  "name": "React-start",
   "version": "0.0.1",
   "description": "Base with webpack, React, Redux, and React-Router!",
   "main": "index.js",
