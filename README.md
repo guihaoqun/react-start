@@ -27,8 +27,8 @@
 确认好你的环境配置，然后就可以开始以下步骤。
 
 ```bash
-$ git clone http://10.20.11.218/FFYunYing/FFReact.git
-$ cd FFReact
+$ git clone https://github.com/guihaoqun/react-start
+$ cd react-start
 $ npm install                   # Install project dependencies
 $ npm start                     # Compile and launch
 ```
